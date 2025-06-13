@@ -255,7 +255,7 @@ ul {
 .section-title__title {
   margin: 0;
   font-size: 40px;
-  line-height: 48px;
+  line-height: 38px;
   font-weight: 700;
   margin-top: 1px;
 }
@@ -4973,7 +4973,7 @@ ul {
 .footer-widget__title {
   position: relative;
   display: inline-block;
-  font-size: 20px;
+  font-size: 24px;
   color: var(--ambed-white, #ffffff);
   font-weight: 700;
   line-height: 30px;
@@ -5012,7 +5012,7 @@ ul {
 .footer-widget__explore-list li a {
   position: relative;
   display: inline-block;
-  font-size: 16px;
+  font-size: 20px;
   color: #c1b8b3;
   padding-left: 20px;
   -webkit-transition: all 500ms ease;
@@ -5057,7 +5057,7 @@ ul {
 .footer-widget__services-list li a {
   position: relative;
   display: inline-block;
-  font-size: 16px;
+  font-size: 20px;
   color: #c1b8b3;
   padding-left: 20px;
   -webkit-transition: all 500ms ease;
@@ -5149,14 +5149,14 @@ ul {
 }
 
 .footer-widget__contact-list li .text h5 {
-  font-size: 14px;
+  font-size: 18px;
   color: #c1b8b3;
   font-weight: 400;
   line-height: 14px;
 }
 
 .footer-widget__contact-list li .text p {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 500;
   color: var(--ambed-white, #ffffff);
   padding-top: 4px;
@@ -5175,7 +5175,7 @@ ul {
 .site-footer__bottom {
   position: relative;
   display: block;
-  background-color: #2f2a27;
+  background-color: #403f3e;
 }
 
 .site-footer__bottom-inner {
@@ -13244,7 +13244,7 @@ body.boxed-wrapper {
 }
 .card-img-shine {
     position: relative;
-    overflow: hidden;
+    /* overflow: hidden; */
     display: inline-block;
 }
 
